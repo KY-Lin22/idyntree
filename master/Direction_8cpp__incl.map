@@ -1,0 +1,20 @@
+<map id="Direction.cpp" name="Direction.cpp">
+<area shape="rect" id="node2" href="$Direction_8h.html" title="iDynTree/Core/Direction.h" alt="" coords="1623,468,1811,495"/>
+<area shape="rect" id="node19" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="1035,80,1249,107"/>
+<area shape="rect" id="node4" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1259,543,1473,569"/>
+<area shape="rect" id="node5" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1404,692,1563,719"/>
+<area shape="rect" id="node8" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="403,692,564,719"/>
+<area shape="rect" id="node21" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="5,543,228,569"/>
+<area shape="rect" id="node22" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="252,543,475,569"/>
+<area shape="rect" id="node24" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="549,543,764,569"/>
+<area shape="rect" id="node26" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="1039,155,1245,196"/>
+<area shape="rect" id="node33" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="1302,155,1499,196"/>
+<area shape="rect" id="node34" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="355,244,550,271"/>
+<area shape="rect" id="node23" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="521,617,723,644"/>
+<area shape="rect" id="node27" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="1177,468,1395,495"/>
+<area shape="rect" id="node28" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="1180,244,1395,271"/>
+<area shape="rect" id="node29" href="$Position_8h.html" title="Position.h" alt="" coords="837,319,924,345"/>
+<area shape="rect" id="node31" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="919,393,1101,420"/>
+<area shape="rect" id="node30" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="793,468,1001,495"/>
+<area shape="rect" id="node32" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="558,468,769,495"/>
+</map>

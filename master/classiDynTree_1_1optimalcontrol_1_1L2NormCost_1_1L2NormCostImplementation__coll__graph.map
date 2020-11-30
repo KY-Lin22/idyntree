@@ -1,0 +1,5 @@
+<map id="iDynTree::optimalcontrol::L2NormCost::L2NormCostImplementation" name="iDynTree::optimalcontrol::L2NormCost::L2NormCostImplementation">
+<area shape="rect" id="node2" href="$classiDynTree_1_1optimalcontrol_1_1CostAttributes.html" title="iDynTree::optimalcontrol\l::CostAttributes" alt="" coords="107,124,290,165"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1MatrixDynSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1VectorDynSize.html" title="Class providing a simple form of vector with dynamic size. " alt="" coords="211,5,392,32"/>
+</map>

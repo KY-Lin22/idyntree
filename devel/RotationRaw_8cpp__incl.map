@@ -1,0 +1,17 @@
+<map id="RotationRaw.cpp" name="RotationRaw.cpp">
+<area shape="rect" id="node2" href="$ClassicalAcc_8h.html" title="iDynTree/Core/ClassicalAcc.h" alt="" coords="43,169,253,196"/>
+<area shape="rect" id="node4" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="146,632,305,659"/>
+<area shape="rect" id="node19" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="773,408,984,435"/>
+<area shape="rect" id="node23" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="197,333,405,360"/>
+<area shape="rect" id="node24" href="$RotationalInertiaRaw_8h.html" title="iDynTree/Core/Rotational\lInertiaRaw.h" alt="" coords="993,244,1175,285"/>
+<area shape="rect" id="node25" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="341,80,547,121"/>
+<area shape="rect" id="node30" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="627,80,824,121"/>
+<area shape="rect" id="node3" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="290,483,505,509"/>
+<area shape="rect" id="node7" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="427,632,589,659"/>
+<area shape="rect" id="node20" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="939,483,1154,509"/>
+<area shape="rect" id="node21" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="899,557,1101,584"/>
+<area shape="rect" id="node26" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="329,408,546,435"/>
+<area shape="rect" id="node27" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="430,169,645,196"/>
+<area shape="rect" id="node28" href="$Position_8h.html" title="Position.h" alt="" coords="534,251,621,278"/>
+<area shape="rect" id="node29" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="633,333,815,360"/>
+</map>

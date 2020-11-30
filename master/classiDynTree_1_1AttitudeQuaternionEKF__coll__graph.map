@@ -1,0 +1,8 @@
+<map id="iDynTree::AttitudeQuaternionEKF" name="iDynTree::AttitudeQuaternionEKF">
+<area shape="rect" id="node2" href="$classiDynTree_1_1IAttitudeEstimator.html" title="for attitude estimator classes " alt="" coords="663,5,870,32"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1DiscreteExtendedKalmanFilterHelper.html" title="class implementation of discrete EKF with additive Gaussian noise " alt="" coords="665,57,868,98"/>
+<area shape="rect" id="node4" href="$structiDynTree_1_1AttitudeEstimatorState.html" title="iDynTree::AttitudeEstimator\lState" alt="" coords="665,122,868,163"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="5,126,179,167"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1VectorFixSize.html" title="iDynTree::VectorFixSize\&lt; 3 \&gt;" alt="" coords="269,164,480,191"/>
+<area shape="rect" id="node7" href="$structiDynTree_1_1AttitudeQuaternionEKFParameters.html" title="set up the quaternion EKF " alt="" coords="661,187,872,229"/>
+</map>

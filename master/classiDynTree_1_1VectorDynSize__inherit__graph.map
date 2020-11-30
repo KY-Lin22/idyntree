@@ -1,0 +1,4 @@
+<map id="iDynTree::VectorDynSize" name="iDynTree::VectorDynSize">
+<area shape="rect" id="node2" href="$classiDynTree_1_1JointDOFsDoubleArray.html" title="Class for storing a vector of scalar values, one for each internal coordinate in a model..." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1JointPosDoubleArray.html" title="Class for storing a vector of scalar values, one for each internal position coordinate in a model..." alt="" coords="225,80,411,121"/>
+</map>

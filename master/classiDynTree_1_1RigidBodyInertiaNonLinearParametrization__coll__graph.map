@@ -1,0 +1,10 @@
+<map id="iDynTree::RigidBodyInertiaNonLinearParametrization" name="iDynTree::RigidBodyInertiaNonLinearParametrization">
+<area shape="rect" id="node2" href="$classiDynTree_1_1Rotation.html" title="Class representation the rotation of an orientation frame with respect to a reference orientation fra..." alt="" coords="19,185,161,212"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1RotationRaw.html" title="Class providing the raw coordinates for iDynTree::Rotation class. " alt="" coords="5,89,175,115"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1MatrixFixSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="47,5,133,32"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1VectorFixSize.html" title="iDynTree::VectorFixSize\&lt; 3 \&gt;" alt="" coords="185,185,395,212"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="203,81,377,123"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1Position.html" title="Class representation the coordinates of the Position of a point with respect to another point..." alt="" coords="434,185,573,212"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1PositionRaw.html" title="Class providing the raw coordinates for iDynTree::Position class. " alt="" coords="420,89,587,115"/>
+<area shape="rect" id="node9" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="468,5,539,32"/>
+</map>

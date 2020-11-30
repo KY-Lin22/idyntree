@@ -1,0 +1,9 @@
+<map id="iDynTree::AccelerometerSensor::AccelerometerPrivateAttributes" name="iDynTree::AccelerometerSensor::AccelerometerPrivateAttributes">
+<area shape="rect" id="node2" href="$classiDynTree_1_1Transform.html" title="Class representation the relative displacement between two different frames. " alt="" coords="115,247,267,273"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1Rotation.html" title="Class representation the rotation of an orientation frame with respect to a reference orientation fra..." alt="" coords="39,157,181,184"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1RotationRaw.html" title="Class providing the raw coordinates for iDynTree::Rotation class. " alt="" coords="5,81,175,108"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1MatrixFixSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="47,5,133,32"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1Position.html" title="Class representation the coordinates of the Position of a point with respect to another point..." alt="" coords="209,157,347,184"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1PositionRaw.html" title="Class providing the raw coordinates for iDynTree::Position class. " alt="" coords="199,81,365,108"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="247,5,317,32"/>
+</map>

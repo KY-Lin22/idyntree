@@ -1,0 +1,27 @@
+<map id="Model.h" name="Model.h">
+<area shape="rect" id="node2" href="$IJoint_8h.html" title="iDynTree/Model/IJoint.h" alt="" coords="1333,80,1503,107"/>
+<area shape="rect" id="node3" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="1341,155,1525,181"/>
+<area shape="rect" id="node7" href="$Link_8h.html" title="iDynTree/Model/Link.h" alt="" coords="1143,80,1309,107"/>
+<area shape="rect" id="node40" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1405,408,1599,435"/>
+<area shape="rect" id="node41" href="$SolidShapes_8h.html" title="iDynTree/Model/SolidShapes.h" alt="" coords="1629,80,1847,107"/>
+<area shape="rect" id="node8" href="$SpatialInertia_8h.html" title="iDynTree/Core/SpatialInertia.h" alt="" coords="554,155,770,181"/>
+<area shape="rect" id="node9" href="$SpatialInertiaRaw_8h.html" title="iDynTree/Core/SpatialInertia\lRaw.h" alt="" coords="989,229,1193,271"/>
+<area shape="rect" id="node27" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="633,721,848,748"/>
+<area shape="rect" id="node28" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="581,237,743,263"/>
+<area shape="rect" id="node36" href="$SpatialMomentum_8h.html" title="iDynTree/Core/SpatialMomentum.h" alt="" coords="258,237,506,263"/>
+<area shape="rect" id="node38" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="767,237,965,263"/>
+<area shape="rect" id="node39" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="5,237,183,263"/>
+<area shape="rect" id="node10" href="$RotationalInertiaRaw_8h.html" title="iDynTree/Core/Rotational\lInertiaRaw.h" alt="" coords="961,483,1144,524"/>
+<area shape="rect" id="node11" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="892,721,1107,748"/>
+<area shape="rect" id="node12" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="291,871,449,897"/>
+<area shape="rect" id="node14" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="920,796,1121,823"/>
+<area shape="rect" id="node17" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="672,871,833,897"/>
+<area shape="rect" id="node29" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="731,319,937,360"/>
+<area shape="rect" id="node30" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="611,647,828,673"/>
+<area shape="rect" id="node31" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="581,408,796,435"/>
+<area shape="rect" id="node32" href="$Position_8h.html" title="Position.h" alt="" coords="1300,490,1387,517"/>
+<area shape="rect" id="node34" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1019,572,1201,599"/>
+<area shape="rect" id="node33" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="1239,647,1447,673"/>
+<area shape="rect" id="node35" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1005,647,1215,673"/>
+<area shape="rect" id="node37" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="271,319,469,360"/>
+</map>

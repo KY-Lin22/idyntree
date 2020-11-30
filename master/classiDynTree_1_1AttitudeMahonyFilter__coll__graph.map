@@ -1,0 +1,7 @@
+<map id="iDynTree::AttitudeMahonyFilter" name="iDynTree::AttitudeMahonyFilter">
+<area shape="rect" id="node2" href="$classiDynTree_1_1IAttitudeEstimator.html" title="for attitude estimator classes " alt="" coords="661,5,868,32"/>
+<area shape="rect" id="node3" href="$structiDynTree_1_1AttitudeMahonyFilterParameters.html" title="set up the quaternion EKF " alt="" coords="669,57,860,98"/>
+<area shape="rect" id="node4" href="$structiDynTree_1_1AttitudeEstimatorState.html" title="iDynTree::AttitudeEstimator\lState" alt="" coords="663,122,866,163"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="5,125,179,166"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1VectorFixSize.html" title="iDynTree::VectorFixSize\&lt; 3 \&gt;" alt="" coords="269,163,480,189"/>
+</map>

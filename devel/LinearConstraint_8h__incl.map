@@ -1,0 +1,18 @@
+<map id="LinearConstraint.h" name="LinearConstraint.h">
+<area shape="rect" id="node2" href="$Constraint_8h.html" title="iDynTree/Constraint.h" alt="" coords="394,379,557,405"/>
+<area shape="rect" id="node15" href="$SparsityStructure_8h.html" title="iDynTree/SparsityStructure.h" alt="" coords="252,453,459,480"/>
+<area shape="rect" id="node20" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="545,229,768,256"/>
+<area shape="rect" id="node22" href="$TimeVaryingObject_8h.html" title="iDynTree/TimeVaryingObject.h" alt="" coords="597,80,815,107"/>
+<area shape="rect" id="node5" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="5,453,228,480"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="300,603,461,629"/>
+<area shape="rect" id="node16" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="827,603,985,629"/>
+<area shape="rect" id="node21" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="805,528,1007,555"/>
+<area shape="rect" id="node23" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="895,155,1090,181"/>
+<area shape="rect" id="node24" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="902,229,1083,256"/>
+<area shape="rect" id="node29" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1085,304,1268,331"/>
+<area shape="rect" id="node32" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1229,453,1444,480"/>
+<area shape="rect" id="node25" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="889,379,1097,405"/>
+<area shape="rect" id="node26" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="991,453,1205,480"/>
+<area shape="rect" id="node30" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="1121,379,1339,405"/>
+<area shape="rect" id="node31" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1363,379,1574,405"/>
+</map>

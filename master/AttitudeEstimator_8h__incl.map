@@ -1,0 +1,10 @@
+<map id="AttitudeEstimator.h" name="AttitudeEstimator.h">
+<area shape="rect" id="node2" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="32,229,247,256"/>
+<area shape="rect" id="node18" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="137,80,320,107"/>
+<area shape="rect" id="node3" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="28,379,187,405"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="621,379,783,405"/>
+<area shape="rect" id="node19" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="47,155,264,181"/>
+<area shape="rect" id="node20" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="339,155,550,181"/>
+<area shape="rect" id="node21" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="391,229,605,256"/>
+<area shape="rect" id="node22" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="587,304,788,331"/>
+</map>

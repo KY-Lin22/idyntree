@@ -1,0 +1,4 @@
+<map id="iDynTree::IAttitudeEstimator" name="iDynTree::IAttitudeEstimator">
+<area shape="rect" id="node2" href="$classiDynTree_1_1AttitudeMahonyFilter.html" title="explicit passive complementary filter on quaternion groups described in the paper Non&#45;linear compleme..." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1AttitudeQuaternionEKF.html" title="Quaternion based Discrete Extended Kalman Filter fusing IMU measurements, to give estimates of orient..." alt="" coords="221,87,455,114"/>
+</map>

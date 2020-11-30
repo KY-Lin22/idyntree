@@ -1,0 +1,12 @@
+<map id="iDynTree::XMLElement" name="iDynTree::XMLElement">
+<area shape="rect" id="node2" href="$classiDynTree_1_1ForceTorqueSensorElement.html" title="iDynTree::ForceTorqueSensor\lElement" alt="" coords="221,5,431,47"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1GeometryElement.html" title="iDynTree::GeometryElement" alt="" coords="223,71,429,98"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1InertialElement.html" title="iDynTree::InertialElement" alt="" coords="233,122,419,149"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1JointElement.html" title="iDynTree::JointElement" alt="" coords="241,173,411,199"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1LinkElement.html" title="iDynTree::LinkElement" alt="" coords="242,223,410,250"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1MaterialElement.html" title="iDynTree::MaterialElement" alt="" coords="229,274,423,301"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1OriginElement.html" title="iDynTree::OriginElement" alt="" coords="236,325,416,351"/>
+<area shape="rect" id="node9" href="$classiDynTree_1_1RobotElement.html" title="iDynTree::RobotElement" alt="" coords="237,375,415,402"/>
+<area shape="rect" id="node10" href="$classiDynTree_1_1SensorElement.html" title="iDynTree::SensorElement" alt="" coords="233,426,419,453"/>
+<area shape="rect" id="node11" href="$classiDynTree_1_1VisualElement.html" title="iDynTree::VisualElement" alt="" coords="235,477,417,503"/>
+</map>

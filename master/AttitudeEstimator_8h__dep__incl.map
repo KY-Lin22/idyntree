@@ -1,0 +1,9 @@
+<map id="AttitudeEstimator.h" name="AttitudeEstimator.h">
+<area shape="rect" id="node2" href="$AttitudeEstimatorUtils_8h.html" title="AttitudeEstimatorUtils.h" alt="" coords="221,80,399,107"/>
+<area shape="rect" id="node6" href="$AttitudeMahonyFilter_8h.html" title="AttitudeMahonyFilter.h" alt="" coords="21,80,189,107"/>
+<area shape="rect" id="node7" href="$AttitudeQuaternionEKF_8h.html" title="AttitudeQuaternionEKF.h" alt="" coords="424,80,604,107"/>
+<area shape="rect" id="node8" href="$AttitudeEstimator_8cpp.html" title="AttitudeEstimator.cpp" alt="" coords="629,80,791,107"/>
+<area shape="rect" id="node3" href="$AttitudeEstimatorUtils_8cpp.html" title="AttitudeEstimatorUtils.cpp" alt="" coords="213,155,407,181"/>
+<area shape="rect" id="node4" href="$AttitudeMahonyFilter_8cpp.html" title="AttitudeMahonyFilter.cpp" alt="" coords="5,155,188,181"/>
+<area shape="rect" id="node5" href="$AttitudeQuaternionEKF_8cpp.html" title="AttitudeQuaternionEKF.cpp" alt="" coords="431,155,626,181"/>
+</map>

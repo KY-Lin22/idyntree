@@ -1,0 +1,5 @@
+<map id="iDynTree::SpatialInertiaRaw" name="iDynTree::SpatialInertiaRaw">
+<area shape="rect" id="node2" href="$classiDynTree_1_1RotationalInertiaRaw.html" title="Class providing the raw coordinates for a 3d inertia matrix. " alt="" coords="5,185,228,212"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1MatrixFixSize.html" title="Matrix3x3" alt="" coords="73,109,160,136"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1MatrixFixSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="30,5,203,47"/>
+</map>

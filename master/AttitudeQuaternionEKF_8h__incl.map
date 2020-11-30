@@ -1,0 +1,15 @@
+<map id="AttitudeQuaternionEKF.h" name="AttitudeQuaternionEKF.h">
+<area shape="rect" id="node2" href="$AttitudeEstimator_8h.html" title="iDynTree/Estimation\l/AttitudeEstimator.h" alt="" coords="741,80,894,121"/>
+<area shape="rect" id="node25" href="$ExtendedKalmanFilter_8h.html" title="iDynTree/Estimation\l/ExtendedKalmanFilter.h" alt="" coords="1166,244,1346,285"/>
+<area shape="rect" id="node29" href="$Direction_8h.html" title="iDynTree/Core/Direction.h" alt="" coords="954,251,1142,278"/>
+<area shape="rect" id="node3" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="317,333,531,360"/>
+<area shape="rect" id="node19" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="627,169,810,196"/>
+<area shape="rect" id="node4" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="821,483,979,509"/>
+<area shape="rect" id="node7" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="502,483,663,509"/>
+<area shape="rect" id="node20" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="610,251,827,278"/>
+<area shape="rect" id="node21" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="375,251,585,278"/>
+<area shape="rect" id="node22" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="78,333,293,360"/>
+<area shape="rect" id="node23" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="510,408,711,435"/>
+<area shape="rect" id="node26" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="953,333,1175,360"/>
+<area shape="rect" id="node27" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="606,333,829,360"/>
+</map>

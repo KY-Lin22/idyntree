@@ -1,0 +1,12 @@
+<map id="iDynTree::MatrixFixSize&lt; nRows, nCols &gt;" name="iDynTree::MatrixFixSize&lt; nRows, nCols &gt;">
+<area shape="rect" id="node2" href="$classiDynTree_1_1RotationRaw.html" title="Class providing the raw coordinates for iDynTree::Rotation class. " alt="" coords="300,5,469,47"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1SpatialForceWrtMotionDerivative.html" title="Class representing the derivative of a spatial force vector with respect to a spatial motion vector..." alt="" coords="290,71,479,112"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1SpatialMotionWrtMotionDerivative.html" title="Class representing the derivative of a spatial motion vector with respect to another spatial motion v..." alt="" coords="285,136,484,177"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1MatrixFixSize.html" title="iDynTree::MatrixFixSize\l\&lt; 2, 3 \&gt;" alt="" coords="298,201,471,243"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1MatrixFixSize.html" title="iDynTree::MatrixFixSize\l\&lt; 4, 4 \&gt;" alt="" coords="298,267,471,308"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1MatrixFixSize.html" title="iDynTree::MatrixFixSize\l\&lt; 4, 3 \&gt;" alt="" coords="298,332,471,373"/>
+<area shape="rect" id="node9" href="$classiDynTree_1_1MatrixFixSize.html" title="iDynTree::MatrixFixSize\l\&lt; 3, 4 \&gt;" alt="" coords="298,397,471,439"/>
+<area shape="rect" id="node10" href="$classiDynTree_1_1MatrixFixSize.html" title="iDynTree::MatrixFixSize\l\&lt; 3, 3 \&gt;" alt="" coords="298,463,471,504"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1Rotation.html" title="Class representation the rotation of an orientation frame with respect to a reference orientation fra..." alt="" coords="574,13,715,39"/>
+<area shape="rect" id="node11" href="$classiDynTree_1_1RotationalInertiaRaw.html" title="Class providing the raw coordinates for a 3d inertia matrix. " alt="" coords="533,470,756,497"/>
+</map>

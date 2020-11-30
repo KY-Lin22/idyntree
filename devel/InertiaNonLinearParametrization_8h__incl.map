@@ -1,0 +1,13 @@
+<map id="InertiaNonLinearParametrization.h" name="InertiaNonLinearParametrization.h">
+<area shape="rect" id="node2" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="143,379,358,405"/>
+<area shape="rect" id="node18" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="289,229,471,256"/>
+<area shape="rect" id="node24" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="452,80,647,107"/>
+<area shape="rect" id="node3" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="210,528,369,555"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="433,528,594,555"/>
+<area shape="rect" id="node19" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="125,304,342,331"/>
+<area shape="rect" id="node20" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="649,304,860,331"/>
+<area shape="rect" id="node21" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="978,379,1193,405"/>
+<area shape="rect" id="node22" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="846,453,1047,480"/>
+<area shape="rect" id="node25" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="459,155,640,181"/>
+<area shape="rect" id="node26" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="417,304,625,331"/>
+</map>
